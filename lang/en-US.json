@@ -1,0 +1,13 @@
+{
+    "languageTag": "en-US",
+    "fileDescription": "Strings for Lamden.",
+    "text": {
+      "plugins": {
+        "lamden": {
+          "name": "Lamden Blockchain Support",
+          "description": "Allows you to integrate Lamden dApp Connectivity aswell as NFT support",
+          "help-url": ""
+        } 
+      }
+    }
+  }
